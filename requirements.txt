@@ -1,0 +1,4 @@
+lxml==4.9.2
+plumbum==1.8.1
+ply==3.11
+python-docx==0.8.11
